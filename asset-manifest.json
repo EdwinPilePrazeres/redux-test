@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/redux-test/static/css/main.975c0fb1.chunk.css",
-    "main.js": "/redux-test/static/js/main.47cf79c6.chunk.js",
-    "main.js.map": "/redux-test/static/js/main.47cf79c6.chunk.js.map",
+    "main.js": "/redux-test/static/js/main.b11e82c5.chunk.js",
+    "main.js.map": "/redux-test/static/js/main.b11e82c5.chunk.js.map",
     "runtime-main.js": "/redux-test/static/js/runtime-main.c2963052.js",
     "runtime-main.js.map": "/redux-test/static/js/runtime-main.c2963052.js.map",
-    "static/js/2.6b225b03.chunk.js": "/redux-test/static/js/2.6b225b03.chunk.js",
-    "static/js/2.6b225b03.chunk.js.map": "/redux-test/static/js/2.6b225b03.chunk.js.map",
+    "static/js/2.308075ff.chunk.js": "/redux-test/static/js/2.308075ff.chunk.js",
+    "static/js/2.308075ff.chunk.js.map": "/redux-test/static/js/2.308075ff.chunk.js.map",
     "index.html": "/redux-test/index.html",
     "static/css/main.975c0fb1.chunk.css.map": "/redux-test/static/css/main.975c0fb1.chunk.css.map",
-    "static/js/2.6b225b03.chunk.js.LICENSE.txt": "/redux-test/static/js/2.6b225b03.chunk.js.LICENSE.txt"
+    "static/js/2.308075ff.chunk.js.LICENSE.txt": "/redux-test/static/js/2.308075ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2963052.js",
-    "static/js/2.6b225b03.chunk.js",
+    "static/js/2.308075ff.chunk.js",
     "static/css/main.975c0fb1.chunk.css",
-    "static/js/main.47cf79c6.chunk.js"
+    "static/js/main.b11e82c5.chunk.js"
   ]
 }
